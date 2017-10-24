@@ -1,0 +1,1 @@
+G:\Work\Code\C#\Project\GitTestDemo\GitTestDemo\bin\Debug\GitTestDemo.exe.config
